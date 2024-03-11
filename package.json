@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "cookie-parser": "^1.4.6",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "mongoose-aggregate-paginate-v2": "^1.0.7"
   }
 }
